@@ -1,2 +1,2 @@
 # Dissertation
-Project Image Classification of Handwritten Text in Different Languages
+Project Title: Image Classification of Handwritten Text in Different Languages
